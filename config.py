@@ -1,10 +1,10 @@
 # Main configuration file
 
 # Mandatory Variables
-API_ID =  # Replace with your actual Telegram API ID
-API_HASH = ""  # Replace with your actual Telegram API Hash
+API_ID = 25492855 # Replace with your actual Telegram API ID
+API_HASH = "61876db014de51a4ace6b169608be4f1"  # Replace with your actual Telegram API Hash
 BOT_TOKEN = "7421749280:AAHWxAJHsJ02tt-jul0HijBqHA0QKCqSprc"  # Replace with your actual Bot Token
-OWNER_ID = ""  # Replace with your actual Owner ID
+OWNER_ID = "6359874284"  # Replace with your actual Owner ID
 # Database
 DATABASE_URL = "mongodb+srv://Yash_607:Yash_607@cluster0.r3s9sbo.mongodb.net/?retryWrites=true&w=majority"  # Replace with your actual database URL
 
